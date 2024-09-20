@@ -1,4 +1,4 @@
-import { registerpage } from "../../../Pages/Registerpage"
+import { registerpage } from "../../Pages/Registerpage"
 import Registerdata from '../../fixtures/Registerdata.json'
 const registerobj =new registerpage()
 describe('Test Automation', () => {
